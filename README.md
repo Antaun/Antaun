@@ -68,10 +68,8 @@ Populated from your public repositories (scanned on 2026-10-19):
 
 ## Quick links
 - CV / Resume: [Download my CV](Resume_2026.pdf)
-- Email: antaun@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Twitter / X: https://x.com/yourhandle
-
+- Email: antaunbobby1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/antaun-bobby-0b4106187
 ---
 
 ## Quick stats
