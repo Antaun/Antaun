@@ -1,7 +1,7 @@
 # Hi — I'm Antaun 👋
 Master's student in Applied AI | ML/AI researcher | Aspiring AI Engineer
 
-I build ML systems and research-driven prototypes that move from idea → experiment → production-ready model. I care about reproducibility, model interpretability, and shipping practical AI that[...]
+I build ML systems and research-driven prototypes that move from idea → experiment → production-ready model. I care about reproducibility, model interpretability, and shipping practical AI that[..]
 
 - 🎓 Current: M.Sc. in Applied AI — research projects in ML & AI (link to profile/CV below)
 - 🔬 Research interests: representation learning, efficient model fine-tuning, interpretable ML, applied NLP & computer vision
@@ -17,8 +17,8 @@ I build ML systems and research-driven prototypes that move from idea → experi
 - End-to-end ML systems: data pipelines, feature engineering, model monitoring
 
 ## Recent / Ongoing
-- Research Project: SegFormer vs U-Net — A reproducible comparison of U-Net with a ResNet-50 encoder (segmentation_models_pytorch) and SegFormer-B2 / MiT-B2 (Hugging Face Transformers) for semantic segmentation on LoveDA (7 classes incl. background; urban and rural domains)
-- Applied Project: Semantic Triage and Similar-Incident Retrieval for Aviation Safety Narratives: [prod-ready prototype] — oFine-tune distilgpt2 on about 1,790 sentences of NASA ASRS aviation-incident narratives, run one-at-a-time hyperparameter experiments, and compare the loss curves and generated text against the base model.
+- Research Project: SegFormer vs U-Net — A reproducible comparison of U-Net with a ResNet-50 encoder (segmentation_models_pytorch) and SegFormer-B2 / MiT-B2 (Hugging Face Transformers) for semantic [...]
+- Applied Project: Semantic Triage and Similar-Incident Retrieval for Aviation Safety Narratives: [prod-ready prototype] — oFine-tune distilgpt2 on about 1,790 sentences of NASA ASRS aviation-incide[...]
 - Toolkit improvements: scripts & utilities for reproducible experiments and CI for ML
 
 ---
@@ -41,8 +41,8 @@ Populated from your public repositories (scanned on 2026-10-19):
 
 - [segformer-vs-unet](https://github.com/Antaun/segformer-vs-unet) — Reproducible comparison pipeline for U-Net (ResNet-50 encoder) vs SegFormer-B2 on the LoveDA segmentation dataset.
 - [We-Talk](https://github.com/Antaun/We-Talk) — Real-time chat application built with Node.js, Express and Socket.IO; includes Firebase deployment configuration and a responsive front-end.
-- [ai-project-template](https://github.com/Antaun/ai-project-template) — Cookiecutter-style data/ML project template with recommended layout, env examples, and setup instructions to make experiments reproducible.
-- [Music-Genre-Classification](https://github.com/Antaun/Music-Genre-Classification) — CNN-based music genre classifier that extracts MFCC features from audio (GTZAN dataset); includes model, preprocessing and result figures.
+- [ai-project-template](https://github.com/Antaun/ai-project-template) — Cookiecutter-style data/ML project template with recommended layout, env examples, and setup instructions to make experim[...]
+- [Music-Genre-Classification](https://github.com/Antaun/Music-Genre-Classification) — CNN-based music genre classifier that extracts MFCC features from audio (GTZAN dataset); includes model, pr[...]
 - [Sleep-Lab](https://github.com/Antaun/Sleep-Lab) — Sleep-monitoring system for smart homes and LG webOS devices built with React and Enact.js.
 - [Data-Science](https://github.com/Antaun/Data-Science) — Collection of data-science projects and experiments (Python notebooks and scripts).
 - [Python-Projects](https://github.com/Antaun/Python-Projects) — Miscellaneous Python examples and small projects.
@@ -67,7 +67,7 @@ Populated from your public repositories (scanned on 2026-10-19):
 ---
 
 ## Quick links
-- CV / Resume: [Download my CV](https://yourportfolio.com/cv)
+- CV / Resume: [Download my CV](Resume_2026.pdf)
 - Email: antaun@example.com
 - LinkedIn: https://linkedin.com/in/yourprofile
 - Twitter / X: https://x.com/yourhandle
