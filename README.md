@@ -17,8 +17,8 @@ I build ML systems and research-driven prototypes that move from idea → experi
 - End-to-end ML systems: data pipelines, feature engineering, model monitoring
 
 ## Recent / Ongoing
-- Research project: [short paper or repo title] — one-line summary of problem & result (link)
-- Applied project: [prod-ready prototype] — one-line summary and demo link
+- Research Project: SegFormer vs U-Net — A reproducible comparison of U-Net with a ResNet-50 encoder (segmentation_models_pytorch) and SegFormer-B2 / MiT-B2 (Hugging Face Transformers) for semantic segmentation on LoveDA (7 classes incl. background; urban and rural domains)
+- Applied Project: Semantic Triage and Similar-Incident Retrieval for Aviation Safety Narratives: [prod-ready prototype] — oFine-tune distilgpt2 on about 1,790 sentences of NASA ASRS aviation-incident narratives, run one-at-a-time hyperparameter experiments, and compare the loss curves and generated text against the base model.
 - Toolkit improvements: scripts & utilities for reproducible experiments and CI for ML
 
 ---
@@ -39,7 +39,7 @@ Python-first ML stack with focus on reproducibility and deployment:
 ## Selected projects
 Populated from your public repositories (scanned on 2026-10-19):
 
-- [segformer-vs-unet](https://github.com/Antaun/segformer-vs-unet) — Reproducible comparison pipeline for U-Net (ResNet-50 encoder) vs SegFormer-B2 on the LoveDA segmentation dataset; code and Colab notebook included (code-only, no experiments run yet).
+- [segformer-vs-unet](https://github.com/Antaun/segformer-vs-unet) — Reproducible comparison pipeline for U-Net (ResNet-50 encoder) vs SegFormer-B2 on the LoveDA segmentation dataset.
 - [We-Talk](https://github.com/Antaun/We-Talk) — Real-time chat application built with Node.js, Express and Socket.IO; includes Firebase deployment configuration and a responsive front-end.
 - [ai-project-template](https://github.com/Antaun/ai-project-template) — Cookiecutter-style data/ML project template with recommended layout, env examples, and setup instructions to make experiments reproducible.
 - [Music-Genre-Classification](https://github.com/Antaun/Music-Genre-Classification) — CNN-based music genre classifier that extracts MFCC features from audio (GTZAN dataset); includes model, preprocessing and result figures.
@@ -51,16 +51,11 @@ Populated from your public repositories (scanned on 2026-10-19):
 ---
 
 ## Publications & Output
-- Preprint / poster: "Paper Title" — short description. [PDF](#) | [Code](#)
-- Conference/workshop: "Poster or talk title" — short note and link.
-
-(Replace with your actual DOI/arXiv links and repo links.)
 
 ---
 
 ## Education
-- M.Sc. Applied AI — [University Name], expected [Year]  
-  Thesis / research: short thesis title and one-sentence summary
+- M.Sc. Applied AI — University of Wollongong, expected 2027
 
 ---
 
