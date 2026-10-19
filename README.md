@@ -67,7 +67,7 @@ Python-first ML stack with focus on reproducibility and deployment:
 ---
 
 ## Quick links
-- CV / Portfolio: https://yourportfolio.com or PDF link
+- CV / Resume: [Download my CV](https://yourportfolio.com/cv)
 - Email: antaun@example.com
 - LinkedIn: https://linkedin.com/in/yourprofile
 - Twitter / X: https://x.com/yourhandle
