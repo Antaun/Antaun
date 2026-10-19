@@ -18,12 +18,12 @@ I build ML systems and research-driven prototypes that move from idea → experi
 
 ## Recent / Ongoing
 - Research Project: SegFormer vs U-Net — A reproducible comparison of U-Net with a ResNet-50 encoder (segmentation_models_pytorch) and SegFormer-B2 / MiT-B2 (Hugging Face Transformers) for semantic [...]
-- Applied Project: Semantic Triage and Similar-Incident Retrieval for Aviation Safety Narratives: [prod-ready prototype] — oFine-tune distilgpt2 on about 1,790 sentences of NASA ASRS aviation-incide[...]
+- Applied Project: Semantic Triage and Similar-Incident Retrieval for Aviation Safety Narratives: [prod-ready prototype] — Fine-tune distilgpt2 on about 1,790 sentences of NASA ASRS aviation-incide[...]
 - Toolkit improvements: scripts & utilities for reproducible experiments and CI for ML
 
 ---
 
-## Tech & tools
+## Tech & Tools
 Python-first ML stack with focus on reproducibility and deployment:
 
 - Languages & notebooks: Python, Jupyter / Colab
