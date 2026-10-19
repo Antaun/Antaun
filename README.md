@@ -1,7 +1,7 @@
 # Hi — I'm Antaun 👋
 Master's student in Applied AI | ML/AI researcher | Aspiring AI Engineer
 
-I build ML systems and research-driven prototypes that move from idea → experiment → production-ready model. I care about reproducibility, model interpretability, and shipping practical AI that helps real users.
+I build ML systems and research-driven prototypes that move from idea → experiment → production-ready model. I care about reproducibility, model interpretability, and shipping practical AI that[...]
 
 - 🎓 Current: M.Sc. in Applied AI — research projects in ML & AI (link to profile/CV below)
 - 🔬 Research interests: representation learning, efficient model fine-tuning, interpretable ML, applied NLP & computer vision
@@ -37,11 +37,16 @@ Python-first ML stack with focus on reproducibility and deployment:
 ---
 
 ## Selected projects
-(If you want, I can populate these from your public repos — say “scan my repos” and I’ll draft 1-line summaries.)
+Populated from your public repositories (scanned on 2026-10-19):
 
-- [project-one](https://github.com/Antaun/project-one) — Reproducible training pipeline for [task], includes experiments, config, and deployment example.
-- [project-two](https://github.com/Antaun/project-two) — Research prototype: [paper or notebook] demonstrating improved [metric] on [dataset].
-- [toolbox](https://github.com/Antaun/toolbox) — Utilities for experiment tracking, dataset transforms, and model packaging.
+- [segformer-vs-unet](https://github.com/Antaun/segformer-vs-unet) — Reproducible comparison pipeline for U-Net (ResNet-50 encoder) vs SegFormer-B2 on the LoveDA segmentation dataset; code and Colab notebook included (code-only, no experiments run yet).
+- [We-Talk](https://github.com/Antaun/We-Talk) — Real-time chat application built with Node.js, Express and Socket.IO; includes Firebase deployment configuration and a responsive front-end.
+- [ai-project-template](https://github.com/Antaun/ai-project-template) — Cookiecutter-style data/ML project template with recommended layout, env examples, and setup instructions to make experiments reproducible.
+- [Music-Genre-Classification](https://github.com/Antaun/Music-Genre-Classification) — CNN-based music genre classifier that extracts MFCC features from audio (GTZAN dataset); includes model, preprocessing and result figures.
+- [Sleep-Lab](https://github.com/Antaun/Sleep-Lab) — Sleep-monitoring system for smart homes and LG webOS devices built with React and Enact.js.
+- [Data-Science](https://github.com/Antaun/Data-Science) — Collection of data-science projects and experiments (Python notebooks and scripts).
+- [Python-Projects](https://github.com/Antaun/Python-Projects) — Miscellaneous Python examples and small projects.
+- [ProgrammingAssignment2](https://github.com/Antaun/ProgrammingAssignment2) — Coursera R Programming assignment demonstrating caching patterns (`makeCacheMatrix` / `cacheSolve`).
 
 ---
 
