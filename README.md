@@ -40,6 +40,7 @@ Python-first ML stack with focus on reproducibility and deployment:
 Populated from your public repositories (scanned on 2026-11-01):
 
 - [segformer-vs-unet](https://github.com/Antaun/segformer-vs-unet) — Comparison of U-Net with a ResNet-50 encoder and SegFormer-B2 / MiT-B2 for semantic segmentation on the LoveDA dataset.
+- [asrs-copilot](https://github.com/Antaun/asrs-copilot) — ASRS Copilot: NLP-based aviation safety triage and similar-incident retrieval prototype for exploring incident narratives and supporting rapid review.
 - [resnet-practice](https://github.com/Antaun/resnet-practice) — Hands-on ResNet experiments and deep learning practice focused on model building, training workflows, and architecture exploration.
 - [ai-project-template](https://github.com/Antaun/ai-project-template) — Cookiecutter-style ML project template for reproducible experiments, configuration-driven pipelines, and clean project scaffolding.
 - [We-Talk](https://github.com/Antaun/We-Talk) — Real-time chat application built with Node.js, Express, and Socket.IO, including a responsive front-end and deployment configuration.
