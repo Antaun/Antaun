@@ -71,6 +71,7 @@ Populated from your public repositories (scanned on 2026-11-01):
 - CV / Resume: [Download my CV](Resume_2026.pdf)
 - Email: antaunbobby1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/antaun-bobby-0b4106187
+- Hugging Face: https://huggingface.co/AntaunBobby
 ---
 
 ## Quick stats
