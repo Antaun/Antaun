@@ -17,8 +17,8 @@ I build ML systems and research-driven prototypes that move from idea → experi
 - End-to-end ML systems: data pipelines, feature engineering, model monitoring
 
 ## Recent / Ongoing
-- Research Project: SegFormer vs U-Net — Benchmarking U-Net (ResNet-50) against SegFormer-B2 on the LoveDA segmentation dataset across 100%, 25%, and 10% labeled data. The project studies validation mIoU, domain-wise performance, efficiency trade-offs, and reproducibility, and includes an interactive Hugging Face demo: [Live demo](https://antaunbobby-landcover-detective.hf.space).
-- Applied Project: Semantic Triage and Similar-Incident Retrieval for Aviation Safety Narratives: [prod-ready prototype] — Fine-tune distilgpt2 on about 1,790 sentences of NASA ASRS aviation-incident narratives to support retrieval and triage workflows.
+- Research Project: SegFormer vs U-Net — Benchmarking U-Net (ResNet-50) against SegFormer-B2 on the LoveDA segmentation dataset across 100%, 25%, and 10% labeled data. The project studies validation under varying supervision settings.
+- Applied Project: Semantic Triage and Similar-Incident Retrieval for Aviation Safety Narratives: [prod-ready prototype] — Fine-tune distilgpt2 on about 1,790 sentences of NASA ASRS aviation-incidents for semantic retrieval and triage support.
 - Toolkit improvements: scripts & utilities for reproducible experiments and CI for ML
 
 ---
@@ -37,16 +37,16 @@ Python-first ML stack with focus on reproducibility and deployment:
 ---
 
 ## Selected projects
-Populated from your public repositories (scanned on 2026-10-19):
+Populated from your public repositories (scanned on 2026-11-01):
 
-- [segformer-vs-unet](https://github.com/Antaun/segformer-vs-unet) — Reproducible semantic-segmentation study comparing U-Net with a ResNet-50 encoder against SegFormer-B2 on LoveDA, including label-fraction ablations, efficiency analysis, and an interactive demo.
-- [We-Talk](https://github.com/Antaun/We-Talk) — Real-time chat application built with Node.js, Express and Socket.IO; includes Firebase deployment configuration and a responsive front-end.
-- [ai-project-template](https://github.com/Antaun/ai-project-template) — Cookiecutter-style data/ML project template with recommended layout, env examples, and setup instructions to make experimentation reproducible.
-- [Music-Genre-Classification](https://github.com/Antaun/Music-Genre-Classification) — CNN-based music genre classifier that extracts MFCC features from audio (GTZAN dataset); includes model, preprocessing, and training code.
+- [segformer-vs-unet](https://github.com/Antaun/segformer-vs-unet) — Comparison of U-Net with a ResNet-50 encoder and SegFormer-B2 / MiT-B2 for semantic segmentation on the LoveDA dataset.
+- [resnet-practice](https://github.com/Antaun/resnet-practice) — Hands-on ResNet experiments and deep learning practice focused on model building, training workflows, and architecture exploration.
+- [ai-project-template](https://github.com/Antaun/ai-project-template) — Cookiecutter-style ML project template for reproducible experiments, configuration-driven pipelines, and clean project scaffolding.
+- [We-Talk](https://github.com/Antaun/We-Talk) — Real-time chat application built with Node.js, Express, and Socket.IO, including a responsive front-end and deployment configuration.
 - [Sleep-Lab](https://github.com/Antaun/Sleep-Lab) — Sleep-monitoring system for smart homes and LG webOS devices built with React and Enact.js.
-- [Data-Science](https://github.com/Antaun/Data-Science) — Collection of data-science projects and experiments (Python notebooks and scripts).
-- [Python-Projects](https://github.com/Antaun/Python-Projects) — Miscellaneous Python examples and small projects.
-- [ProgrammingAssignment2](https://github.com/Antaun/ProgrammingAssignment2) — Coursera R Programming assignment demonstrating caching patterns (`makeCacheMatrix` / `cacheSolve`).
+- [Music-Genre-Classification](https://github.com/Antaun/Music-Genre-Classification) — CNN-based music genre classifier using MFCC features from audio and the GTZAN dataset.
+- [Data-Science](https://github.com/Antaun/Data-Science) — Collection of data-science projects, notebooks, and experiments spanning analysis and ML workflows.
+- [Python-Projects](https://github.com/Antaun/Python-Projects) — Miscellaneous Python examples and short projects covering core coding patterns and model experimentation.
 
 ---
 
